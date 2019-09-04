@@ -1,0 +1,8 @@
+{
+	"job1":	{
+			"name": "test.ping",
+			"fun": "test.ping",
+			"cmd": "local"
+		}
+}
+
